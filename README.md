@@ -1,4 +1,4 @@
-# Chatbot-using-rasa-framework
+# Chatbot using rasa framework
 I have created a simple chatbot which returns timezone of few cities to user 
 You can test bot created by me as follow
 1) Install python on your system
